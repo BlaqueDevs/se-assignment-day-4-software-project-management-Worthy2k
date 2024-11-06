@@ -53,18 +53,7 @@ How Gantt charts assist:
 4. Tracking Progress: Monitoring progress and identifying potential issues.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-Core Issues:
 
-1. Inefficient Task Management: Many individuals and teams struggle with organizing tasks, tracking progress, and maintaining productivity.
-2. Lack of Collaboration Tools: Remote teams often lack effective tools for real-time collaboration and knowledge sharing.
-3. Difficulty in Prioritizing Tasks: Prioritizing tasks can be challenging, especially in fast-paced environments.
-
-Significance to Target Audience:
-
-1. Increased Productivity: By streamlining task management and collaboration, the software can help users become more efficient and productive.
-2. Improved Team Collaboration: The software can foster better teamwork and communication, especially among remote teams.
-3. Better Time Management: By prioritizing tasks effectively, users can allocate their time more efficiently.
-4. Reduced Stress: A well-organized and efficient workflow can reduce stress and improve work-life balance.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
