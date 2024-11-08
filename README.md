@@ -53,18 +53,44 @@ How Gantt charts assist:
 4. Tracking Progress: Monitoring progress and identifying potential issues.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+I want to Create a platform for easy communication between graphics designers and clients.
+Aims
+1. It aims at achieving efficient communication between clients and designers
+2. Giving some graphics inspiration on flyers
+3. Decreasing Competitiveness and providing a suitable designer for a client
 
+Significance
+1. It will save the stress of trying to get job on a general purpose work platform. E.g Fiverr, Upwork
+2. It will give clients more hand in reaching thier desires
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-
+1. Focused Development
+2. User-Centric Design
+3. Effective Prioritization
+4. Measurable Goals
+5. Risk Mitigation
+6. Better Decision Making
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-
+A seamless platform that bridges the gap between creative vision and project realization, fostering efficient collaboration and inspiring design excellence.
 
 ## 11. What are the main features or functionalities that make your software stand out?
-
+1. Intuitive Matching System: Our platform leverages advanced algorithms to match clients with the most suitable designers, ensuring efficient project pairing.
+2. Real-Time Collaboration Tools: Seamless communication and collaboration features, including real-time chat, file sharing, and version control.
+3. Design Inspiration Gallery: A curated collection of design inspiration and resources to spark creativity and elevate project outcomes. 
+4. Secure Payment and Escrow System: A secure and transparent payment system protects both clients and designers, ensuring timely and reliable transactions.
+5. Detailed Project Management Tools: Comprehensive project management tools to track progress, set deadlines, and manage revisions efficiently.
+6. Robust Review and Rating System: A transparent feedback mechanism to build trust and foster a community of talented designers.
+7. Mobile-Friendly Interface: A responsive design that allows users to access the platform from any device, ensuring seamless collaboration on the go.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+The market for design collaboration platforms is experiencing significant growth due to several factors:
 
+1. Rise of Remote Work: The increasing trend of remote work and freelancing has led to a surge in demand for online collaboration tools.  
+2. Digital Transformation: Businesses are increasingly adopting digital tools to streamline their operations, including design and creative processes.
+3. Growth of the Gig Economy: The gig economy has created a vast pool of freelance designers, making it essential to have efficient platforms for connecting with clients.
+4. Increased Focus on Design: Design has become a crucial aspect of business success, and businesses are investing more in high-quality design.
+   
+While specific market size data for niche design collaboration platforms might be limited, we can draw insights from broader trends in the software-as-a-service (SaaS) and collaboration software markets.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
